@@ -1,2 +1,2 @@
 # python
-Project template for Pyhton
+Project template for Python
